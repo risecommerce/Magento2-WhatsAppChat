@@ -1,9 +1,8 @@
 {
     "name": "risecommerce/whatsapp-chat-extension",
+    "version": "1.3.0",
     "description": "Risecommerce WhatsApp Chat Extension for Magento 2",
-    
     "type": "magento2-module",
-    "version": "v1.3.0",
     "license": [
     "OSL-3.0",
     "AFL-3.0"
