@@ -16,20 +16,19 @@
     }
   ],
     "minimum-stability": "dev", 
-    "keywords": [
+  "keywords": [
     "magento 2",
-    "magento",
-    "magento 2 whatsapp",
-    "magento whatsapp",
+    "magento 2 smtp",
+    "magento smtp",
     "risecommerce",
-    "whatsapp",
-    "whatsapp settings",
-    "message whatsapp",
+    "smtp",
+    "email settings",
+    "gmail smtp",
     "marketing automation",
-    "whatsapp marketing",
-    "whatsapp marketing",
-    "whatsapp",
-    "message",
+    "email marketing",
+    "sms marketing",
+    "sms",
+    "email",
     "messenger",
     "facebook",
     "google ads",
@@ -46,7 +45,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Risecommerce\\WhatsAppChat\\": ""
+            "Risecommerce\\Smtp\\": ""
         }
     }
 }
