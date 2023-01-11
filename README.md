@@ -14,7 +14,9 @@ Method I)
 4. Drop/move the unzipped files to directory '[Magento_Root]/app/code/Risecommerce/WhatsAppChat'
 
 Method II)
+
 Using Composer
+
   composer require risecommerce/whatsapp-chat-extension:1.0.1
 
 #Enable Extension:
