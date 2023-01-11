@@ -3,7 +3,7 @@
 This extension is a perfect tool for store visitors to communicate instantly with the admin regarding any inquiries, queries, guidance and after-sale service..
 
 ##Support: 
-version - 1.0.1
+version - 2.3.*,2.4.*
 
 ##How to install Extension
 
