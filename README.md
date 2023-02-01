@@ -17,7 +17,7 @@ Method II)
 
 Using Composer
 
-  composer require risecommerce/whatsapp-chat-extension:1.0.1
+  composer require risecommerce/whatsapp-chat-extension
 
 #Enable Extension:
 - php bin/magento module:enable Risecommerce_WhatsAppChat
