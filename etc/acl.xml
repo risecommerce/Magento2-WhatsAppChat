@@ -6,7 +6,7 @@
                 <resource id="Magento_Backend::stores">
                     <resource id="Magento_Backend::stores_settings">
                         <resource id="Magento_Config::config">
-                            <resource id="Risecommerce_WhatsAppChat::configuration" title="Whatsapp Setting" translate="title" sortOrder="100" />
+                            <resource id="Risecommerce_WhatsAppChat::wa_chat" title="Whatsapp Setting" translate="title" sortOrder="100" />
                         </resource>
                     </resource>
                 </resource>
