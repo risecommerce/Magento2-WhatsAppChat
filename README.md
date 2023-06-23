@@ -1,5 +1,5 @@
-<h3><a href="https://risecommerce.com/">Risecore Technologies Pvt. Ltd.</a></h3>
-<a href="https://risecommerce.com/"><img width="100%" height="208" src="https://risecommerce.com/media/wysiwyg/logowithtext.png"></a>
+<h3><a target="_blank" href="https://risecommerce.com/">Risecore Technologies Pvt. Ltd.</a></h3>
+<a target="_blank" href="https://risecommerce.com/"><img width="100%" height="208" src="https://risecommerce.com/media/wysiwyg/logowithtext.png"></a>
 
 ##WhatsApp Chat Extension
 
@@ -8,8 +8,8 @@
 
 This extension is a perfect tool for store visitors to communicate instantly with the admin regarding any inquiries, queries, guidance service via WhatsApp ..
 
- <a href="https://demo.risecommerce.com/"> <img width="190" height="70" src="https://risecommerce.com/media/wysiwyg/frontend-demo.png"> </a>
- <a href="https://demo.risecommerce.com/admindemo"> <img width="190" height="70" src="https://risecommerce.com/media/wysiwyg/Backend-Demo.png"> </a>
+ <a target="_blank" href="https://demo.risecommerce.com/"> <img width="190" height="70" src="https://risecommerce.com/media/wysiwyg/frontend-demo.png"> </a>
+ <a target="_blank" href="https://demo.risecommerce.com/admindemo"> <img width="190" height="70" src="https://risecommerce.com/media/wysiwyg/Backend-Demo.png"> </a>
 
 Username: ```whatsapp_user``` Password: ```Test@123```
 
