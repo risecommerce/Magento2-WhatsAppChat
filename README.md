@@ -24,10 +24,10 @@ version - 2.3.*,2.4.*
 ##How to install Extension
 
 <h4>Method I:</h4>
-1. Download the archive file.
-2. Unzip the file
-3. Create a folder [Magento_Root]/app/code/Risecommerce/WhatsAppChat
-4. Drop/move the unzipped files to directory '[Magento_Root]/app/code/Risecommerce/WhatsAppChat'
+<p>1. Download the archive file.</p>
+<p>2. Unzip the file</p>
+<p>3. Create a folder [Magento_Root]/app/code/Risecommerce/WhatsAppChat</p>
+<p>4. Drop/move the unzipped files to directory '[Magento_Root]/app/code/Risecommerce/WhatsAppChat'</p>
 
 <h4>Method II:</h4>
 
