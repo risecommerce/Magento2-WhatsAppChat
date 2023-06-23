@@ -1,4 +1,4 @@
-Risecore Technologies Pvt.Ltd.
+<a href="https://risecommerce.com/"><h3>Risecore Technologies Pvt. Ltd.</h3></a>
 <a href="https://risecommerce.com/"><img width="830" height="208" src="https://risecommerce.com/media/wysiwyg/riselogoOld.svg"></a>
 
 ##WhatsApp Chat Extension
@@ -8,15 +8,10 @@ Risecore Technologies Pvt.Ltd.
 
 This extension is a perfect tool for store visitors to communicate instantly with the admin regarding any inquiries, queries, guidance service via WhatsApp ..
 
-Demo Links
-Frontend Demo Link: <a href="https://demo.risecommerce.com/"> Open </a>
+ <a href="https://demo.risecommerce.com/"> <img width="190" height="70" src="https://risecommerce.com/media/wysiwyg/frontend-demo.png"> </a>
+ <a href="https://demo.risecommerce.com/admindemo"> <img width="190" height="70" src="https://risecommerce.com/media/wysiwyg/Backend-Demo.png"> </a>
 
-
-Backend Demo Link: <a href="https://demo.risecommerce.com/admindemo"> Open </a>
-
-Username: whatsapp_user
-
-Password: Test@123
+Username: ```whatsapp_user``` Password: ```Test@123```
 
 ##Support: 
 version - 2.3.*,2.4.*
