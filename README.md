@@ -1,3 +1,6 @@
+Risecore Technologies Pvt.Ltd.
+![image](https://github.com/risecommerce/Magento2-WhatsAppChat/assets/20417583/5c036715-f25a-47c0-be43-9291b43c604a)
+
 ##WhatsApp Chat Extension
 
 This extension is a perfect tool for store visitors to communicate instantly with the admin regarding any inquiries, queries, guidance service via WhatsApp ..
@@ -43,3 +46,8 @@ Using Composer
 - php bin/magento cache:clean
 - php bin/magento setup:static-content:deploy
 - php bin/magento cache:flush
+
+
+  Configuration
+![image](https://github.com/risecommerce/Magento2-WhatsAppChat/assets/20417583/c50c0e00-d6af-4128-83b6-5fb9139f1f1c)
+
