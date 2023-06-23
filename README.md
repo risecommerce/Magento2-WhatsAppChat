@@ -1,6 +1,17 @@
 ##WhatsApp Chat Extension
 
-This extension is a perfect tool for store visitors to communicate instantly with the admin regarding any inquiries, queries, guidance and after-sale service..
+This extension is a perfect tool for store visitors to communicate instantly with the admin regarding any inquiries, queries, guidance service via WhatsApp ..
+
+Demo Links
+Frontend Demo Link: https://demo.risecommerce.com/
+
+Backend Demo Link: https://demo.risecommerce.com/admindemo/
+
+Username: whatsapp_user
+
+Password: Test@123
+
+Buy Link : https://risecommerce.com/magento2-whatsapp-chat-integration.html
 
 ##Support: 
 version - 2.3.*,2.4.*
