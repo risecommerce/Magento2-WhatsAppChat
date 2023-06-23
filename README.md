@@ -31,23 +31,29 @@ Method II)
 
 Using Composer
 
-  composer require risecommerce/whatsapp-chat-extension
+```
+ composer require risecommerce/whatsapp-chat-extension
+```
 
-#Enable Extension:
-- php bin/magento module:enable Risecommerce_WhatsAppChat
-- php bin/magento setup:upgrade
-- php bin/magento cache:clean
-- php bin/magento setup:static-content:deploy
-- php bin/magento cache:flush
+<h4>Enable Extension:</h4>
 
-#Disable Extension:
-- php bin/magento module:disable Risecommerce_WhatsAppChat
-- php bin/magento setup:upgrade
-- php bin/magento cache:clean
-- php bin/magento setup:static-content:deploy
-- php bin/magento cache:flush
+```
+ php bin/magento module:enable Risecommerce_WhatsAppChat
+ php bin/magento setup:upgrade
+ php bin/magento cache:clean
+ php bin/magento setup:static-content:deploy
+ php bin/magento cache:flush
+```
 
+<h4>Disable Extension:</h4>
 
-  Configuration
-![image](https://github.com/risecommerce/Magento2-WhatsAppChat/assets/20417583/c50c0e00-d6af-4128-83b6-5fb9139f1f1c)
+```
+ php bin/magento module:disable Risecommerce_WhatsAppChat
+ php bin/magento setup:upgrade
+ php bin/magento cache:clean
+ php bin/magento setup:static-content:deploy
+ php bin/magento cache:flush
+``
 
+ <h3>Configuration:</h3>
+![image](https://github.com/risecommerce/Magento2-WhatsAppChat/assets/20417583/41672409-48a2-4ac7-ae29-7ea635d4f5fe)
