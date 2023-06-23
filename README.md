@@ -1,5 +1,5 @@
 <a href="https://risecommerce.com/"><h3>Risecore Technologies Pvt. Ltd.</h3></a>
-<a href="https://risecommerce.com/"><img width="830" height="208" src="https://risecommerce.com/media/wysiwyg/riselogoOld.svg"></a>
+<a href="https://risecommerce.com/"><img width="100%" height="208" src="https://risecommerce.com/media/wysiwyg/logowithtext.png"></a>
 
 ##WhatsApp Chat Extension
 
