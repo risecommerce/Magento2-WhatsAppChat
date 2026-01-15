@@ -27,7 +27,8 @@ class Data extends \Magento\Framework\App\Helper\AbstractHelper
      * @var \Magento\Store\Model\StoreManagerInterface
      */
     protected $_storeManager;
-
+    protected $assetRepo;
+    protected $request;
     /**
      * Data constructor.
      * @param \Magento\Framework\App\Helper\Context $context
